@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ACTIVITAR-HOME </title>
+    <link rel="shortcut icon" href="image\Favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/Footer.css">
+    <link rel="stylesheet" href="css/Home.css">
+
+</head>
+
+<body>
+    <!-- Navigation Bav  -->
+    <nav id="navbar">
+        <div id="logo">
+            <img src="image/Logo.JPG" alt="Ativitar">
+        </div>
+        <ul>
+            <li class="item"><a href="Home Page.html">HOME</a></li>
+            <li class="item"><a href="#about-us">ABOUT</a></li>
+            <li class="item"><a href="#Our-service">SERVICES</a></li>
+            <li class="item"><a href="#gallery">GALLERY</a></li>
+            <li class="item"><a href="Blog Page.html">BLOG</a></li>
+            <li class="item"><a href="Log In page.html" style="margin-top: -10px;"><button>Join Us</button></a></li>
+        </ul>
+    </nav>
+    <!-- Header Part -->
+    <div class="header">
+        <img src="image\backdround top.jpg" alt="headerimage" width="100%" style="
+    margin-top: -9px;
+">
+    </div>
+    <div class="dialogue">
+        <p>BUILD PERFECT BODY <br>SHAPE FOR GOOD AND <br>HEALTHY LIFE.</p>
+        <button type="button"><a href="Blog Page.html" style="
+            color: white;
+        ">KNOW MORE</a> </button>
+    </div>
+    </header>
+    <!-- Main Part  -->
+    <main>
+
+        <!-- our Service Part  -->
+        <section class="our-service">
+            <div class="heading-of-service">
+                <h3 id="Our-service" style="color:red;">OUR SERVICE</h3>
+                <P><strong>WHAT WE CAN OFFER</strong> </P>
+            </div>
+
+            <div class="imgcontainer">
+                <div class="box" id="box1"><a href="Exercise Page .html"><img src="image\Workout.jpg" alt="Workout"></a>
+                    <a href="Exercise Page .html">
+                        <p>EXERCISES</p>
+                    </a>
+                </div>
+                <div class="box" id="box2"><a href="Yoga And Meditation Page.html"><img src="image\yoga.jpg"
+                            alt="yoga"></a>
+                    <a href="Yoga And Meditation Page.html">
+                        <P>YOGA AND MEDITATION</P>
+                    </a>
+                </div>
+                <div class="box" id="box3"><a href="Blog Page.html"><img src="image\Blog.jpg" alt="blog"></a>
+                    <a href="Blog Page.html">
+                        <P>BLOG</P>
+                    </a>
+                </div>
+                <div class="box" id="box4"><a href="Utility Page .html"><img src="image\Utility.jpg" alt="utility"></a>
+                    <a href="Utility Page .html">
+                        <p> UTILITY </p>
+                    </a>
+                </div>
+                <div class="box" id="box5"><a href="Diet Plan .html"><img src="image\Dite plan.jpg" alt="diet"></a>
+                    <a href="Diet Plan .html">
+                        <P>DIET</P>
+                    </a>
+                </div>
+                <div class="box" id="box6"><a href="Shoping page.html"><img src="image\product.jpg" alt="product"></a>
+                    <a href="Shoping page.html">
+                        <P>PRODUCTS</P>
+                    </a>
+                </div>
+            </div>
+            <div class="button"><button><a href="Error 404 .html" style="
+                color: white;
+            ">NEXT</a></button></div>
+        </section>
+
+        <!-- About Us Part  -->
+        <div class="aboutus">
+            <div class="heading-of-about-us">
+                <img src="image\About.jpg" alt="aboutus">
+            </div>
+            <div class="para-about-us">
+                <h4 id="about-us"> ABOUT US </h4>
+                <h2>SAFE BODY BUILDING PROPER <BR> SOLUTION THAT SAVES OUR <BR>VALUABLE TIME !</h2>
+                <p>Learn to do each exercise correctly. When lifting weights, move through the full range of motion in
+                    your
+                    joints. The better your form, the better your results, and the less likely you are to hurt yourself.
+                    If
+                    you're unable to maintain good form, decrease the weight or the number of repetitions. Remember that
+                    proper form matters even when you pick up and replace your weights on the weight racks.</p>
+                <div class="para-about-us-button"><a href="Membership page.html"
+                        style="color: white; text-decoration: none; padding: 22px 0px;">BECAME A MEMBER</a> </div>
+            </div>
+        </div>
+
+        <!-- Gallery Part  -->
+        <div class="gallery-heading">
+            <h3 id="gallery">GALLERY</h3>
+        </div>
+        <div class="gallery-container">
+            <div class="gallery" id="gallery1"><img src="image/gallery 1.jpg" alt="gallery-image"></div>
+            <div class="gallery" id="gallery2"><img src="image/gallery 2.jpg" alt="gallery-image"></div>
+            <div class="gallery" id="gallery3"><img src="image/gallery 3.jpg" alt="gallery-image"></div>
+            <div class="gallery" id="gallery4"><img src="image/gallery 4.jpg" alt="gallery-image"></div>
+            <div class="gallery" id="gallery5"><img src="image/gallery 5.jpg" alt="gallery-image"></div>
+            <div class="gallery" id="gallery6"><img src="image/gallery 6.jpg" alt="gallery-image"></div>
+            <div class="gallery" id="gallery7"><img src="image/gallery 7.jpg" alt="gallery-image"></div>
+            <div class="gallery" id="gallery8"><img src="image/gallery 8.jpg" alt="gallery-image"></div>
+            <div class="gallery" id="gallery9"><img src="image/gallery 9.jpg" alt="gallery-image"></div>
+            <div class="gallery-button">
+                <button><a href="Error 404 .html" style="
+                    color: white;
+                ">NEXT</a></button>
+            </div>
+
+
+            <!-- Feedback Part  -->
+            <div class="feedback">
+                <div class="heading-contact-us">
+                    <h3 style="font-size: 2.8rem; margin-top: 20rem;">FEEDBACK</h3>
+                </div>
+                <div class="social-media-container">
+                    <ul class="social-media">
+                        <li><a href="https://www.instagram.com/0activitar1/" target="_blank"><img
+                                    src="image/Logo/instagram.png" alt="Instagram"></a></li>
+                        <li><a href="https://www.facebook.com/" target="-blank"><img src="image/Logo/facebook.png"
+                                    alt="Facebook"></a></li>
+                        <li><a href="https://www.youtube.com/" target="_blank"><img src="image/Logo/youtube.png"
+                                    alt="Youtube"></a></li>
+                        <li><a href="https://in.linkedin.com/" target="_blank"><img src="image/Logo/linkedin.png"
+                                    alt="LinkedIn"></a></li>
+                    </ul>
+                </div>
+                <div class="contact-img">
+                    <img src="image/feedback.jpg" alt="Contact us image">
+                    <p> FEEL FREE TO CONTACT <br> WITH US ! </p>
+                </div>
+                <form action="backend/backend.php" id="Feedback-form">
+                    <input type="text" name="name" placeholder="Name">
+                    <input type="number" name="number" placeholder="Phone No.">
+                    <select name="Service" id="Select-service">
+                        <option name="Exercise" id="Exercise" selected>Exercise</option>
+                        <option name="Yoga" id="Yoga">Yoga</option>
+                        <option name="Meditation" id="Meditation">Meditation</option>
+                        <option name="Blog" id="Blog">Blog</option>
+                        <option name="Utility" id="Utility">Utility</option>
+                        <option name="Diet" id="Diet">Diet</option>
+                        <option name="Product" id="Product">Product</option>
+                    </select>
+                    <input type="email" placeholder="Email">
+                    <textarea name="Message" id="message" cols="30" rows="10" placeholder="Message"></textarea>
+                    <button type="submit" id="feedback-button">Send Message</button>
+                </form>
+            </div>
+
+            <!-- Footer Part  -->
+            <footer>
+                <div class="upper">
+                    <div class="footerbox"><img src="image/Logo/Location.png" alt="Location">
+                        <span>21-House,07-Begusarai,Bihar,India</span>
+                    </div>
+                    <div class="footerbox">
+                        <img src="image/logo/Phone.png" alt="Phone">
+                        <span>(+91) 8875109938 - 9204412094</span>
+
+                    </div>
+                    <div class="footerbox">
+                        <img src="image/logo/Gmail.png" alt="Gmail">
+                        <span>theashishsuman@gmail.com</span>
+                    </div>
+                </div>
+                <div class="middle">
+                    <div class="middlebox" id="infobox1">
+                        <h2 style="color: red; font-family: Verdana, Geneva, Tahoma, sans-serif;">SOCIAL MEDIA</h2>
+                        <a href="https://www.instagram.com/0activitar1/" target="_blank"><img
+                                src="image/Logo/instagram.png" alt="Instagram"></a>
+                        <a href="https://www.facebook.com/" target="-blank"><img src="image/Logo/facebook.png"
+                                alt="Facebook"></a></li>
+                        <a href="https://www.youtube.com/" target="_blank"><img src="image/Logo/youtube.png"
+                                alt="Youtube"></a>
+                        <a href="https://in.linkedin.com/" target="_blank"><img src="image/Logo/linkedin.png"
+                                alt="LinkedIn"></a>
+                    </div>
+                    <div class="middlebox" id="infobox2">
+                        <h2 style="color: red; font-family: Verdana, Geneva, Tahoma, sans-serif;">USEFUL LINKS</h2>
+                        <a href="#about-us">
+                            <p>About</p>
+                        </a>
+                        <a href="Blog Page.html">
+                            <p>Blog</p>
+                        </a>
+                        <a href="#Our-service">
+                            <p>Services</p>
+                        </a>
+                        <a href="#gallery">
+                            <p>Gallery</p>
+                        </a>
+                        <a href="Shoping page.html">
+                            <p>Shoping</p>
+                        </a>
+                    </div>
+                    <div class="middlebox" id="infobox3">
+                        <h2 style="color: red; font-family: Verdana, Geneva, Tahoma, sans-serif;">SUPPORT</h2>
+                        <a href="Log In page.html">
+                            <p>Login</p>
+                        </a>
+                        <a href=" Home Page After Login.html">
+                            <p>My Account</p>
+                        </a>
+                        <a href="Home Page.html">
+                            <p>Subscribe</p>
+                        </a>
+                        <a href="Home Page.html">
+                            <p>Contact</p>
+                        </a>
+                        <a href="Membership page.html">
+                            <p>Membership</p>
+                        </a>
+                    </div>
+                    <div class="middlebox" id="infobox4">
+                        <h2 style="color: red; font-family: Verdana, Geneva, Tahoma, sans-serif;">EXCULSIVE PROGRAMS
+                        </h2>
+                        <a href="Exercise Page .html">
+                            <p>Fat Loss</p>
+                        </a>
+                        <a href="Exercise Page .html">
+                            <p>Muscles Gain</p>
+                        </a>
+                        <a href="Yoga And Meditation Page.html">
+                            <p>Yoga And Medidation</p>
+                        </a>
+                        <a href="Blog Page.html">
+                            <p>Latest Updates</p>
+                        </a>
+                        <a href="Calorie Claculator.html">
+                            <p>Fat Calculator</p>
+                        </a>
+                        <a href="BMI calculator.html">
+                            <p>BMI calculator</p>
+                        </a>
+                        <a href="Exercise Page .html ">
+                            <p>Powerlifting</p>
+                        </a>
+                        <a href="Exercise Page .html">
+                            <p>Professional Trainer </p>
+                        </a>
+                        <a href="Shoping page.html">
+                            <p>Original Produts</p>
+                        </a>
+                    </div>
+                </div>
+
+            </footer>
+    </main>
+
+
+
+</body>
+
+</html>

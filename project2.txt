@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ACTIVITAR- Home Workout</title>
+    <link rel="shortcut icon" href="image\Favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/Home Wourkout.css">
+    <link rel="stylesheet" media="screen and (max-width:600px)" href="css/Exercise Page responsive.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/Footer.css">
+
+</head>
+
+<body>
+
+    <!-- Navigation Bar  -->
+
+    <nav id="navbar">
+        <div id="logo">
+            <img src="image/Logo.JPG" alt="Ativitar">
+        </div>
+        <ul>
+            <li class="item"><a href="Home Page.html">HOME</a></li>
+            <li class="item"><a href="Home Page.html">ABOUT</a></li>
+            <li class="item"><a href="Home Page.html">SERVICES</a></li>
+            <li class="item"><a href="Home Page.html">GALLERY</a></li>
+            <li class="item"><a href="Blog Page.html">BLOG</a></li>
+            <li class="item" id="Dp"><img src="image/Profile Picture.jpg" alt="Profile Picture"></li>
+        </ul>
+    </nav>
+
+
+    <!-- Header part  -->
+    
+    <header id="header">
+        <h1>TIME TABLE</h1>
+    </header>
+
+
+    <!-- Container Part -->
+
+    <div class="container">
+        <div class="imgcontainer">
+            <div class="heading">
+                <h2 style="color: red;"> HOME WORKOUT PLAN </h2>
+
+            </div>
+
+            <div class="image">
+                <a href=""><img src="image/Home Workout page.jpg" alt="Bodybuilding Plan"></a>
+            </div>
+
+            <div class="duration">
+                <p class="weeks">12 WEEKS</p>
+                <p class="days">3 DAYS/WEEK</p>
+            </div>
+
+        </div>
+        <div class="schedule">
+            <div class="heading2">
+                SCHEDULE
+            </div>
+            <div class="name" id="day1">
+                <a href="Monday Exercise .html">
+                    <p class="name_week">Monday</p>
+                </a>
+            </div>
+            <div class="name" id="day2">
+                <a href="Rest Day .html">
+                    <p class="name_week">Tuesday</p>
+                </a>
+            </div>
+            <div class="name" id="day3">
+                <a href="Wednesday Exercise.html">
+                    <p class="name_week" style="margin: 6px 80px;">Wednesday</p>
+                </a>
+            </div>
+            <div class="name" id="day4">
+                <a href="Rest Day .html">
+                    <p class="name_week">Thursday</p>
+                </a>
+            </div>
+            <div class="name" id="day5">
+                <a href="Friday Exercise.html">
+                    <p class="name_week" style="margin: 6px 137px;">Friday</p>
+                </a>
+            </div>
+            <div class="name" id="day6">
+                <a href="Rest Day .html">
+                    <p class="name_week">Saturday</p>
+                </a>
+            </div>
+            <div class="name" id="day7">
+                <a href="Rest Day .html">
+                    <p class="name_week">Sunday</p>
+                </a>
+            </div>
+
+        </div>
+    </div>
+
+
+    <!-- More Button -->
+
+    <section class="more"><button><a href="Blog Page.html" style="
+        color: white;
+    ">MORE INFO.</a></button></section>
+
+
+    <!-- Footer Part  -->
+
+
+    <footer>
+        <div class="upper">
+            <div class="footerbox"><img src="image/Logo/Location.png" alt="Location">
+                <span>21-House,07-Begusarai,Bihar,India</span>
+            </div>
+            <div class="footerbox">
+                <img src="image/logo/Phone.png" alt="Phone">
+                <span>(+91) 8875109938 - 9204412094</span>
+
+            </div>
+            <div class="footerbox">
+                <img src="image/logo/Gmail.png" alt="Gmail">
+                <span>theashishsuman@gmail.com</span>
+            </div>
+        </div>
+        <div class="middle">
+            <div class="middlebox" id="infobox1">
+                <h2 style="color: red; font-family: Verdana, Geneva, Tahoma, sans-serif;">SOCIAL MEDIA</h2>
+                <a href="https://www.instagram.com/0activitar1/" target="_blank"><img src="image/Logo/instagram.png"
+                        alt="Instagram"></a>
+                <a href="https://www.facebook.com/" target="-blank"><img src="image/Logo/facebook.png"
+                        alt="Facebook"></a></li>
+                <a href="https://www.youtube.com/" target="_blank"><img src="image/Logo/youtube.png" alt="Youtube"></a>
+                <a href="https://in.linkedin.com/" target="_blank"><img src="image/Logo/linkedin.png"
+                        alt="LinkedIn"></a>
+            </div>
+            <div class="middlebox" id="infobox2">
+                <h2 style="color: red; font-family: Verdana, Geneva, Tahoma, sans-serif;">USEFUL LINKS</h2>
+                <a href="Home Page After Login.html">
+                    <p>About</p>
+                </a>
+                <a href="Blog Page.html">
+                    <p>Blog</p>
+                </a>
+                <a href="Home Page After Login.html">
+                    <p>Services</p>
+                </a>
+                <a href="Home Page After Login.html">
+                    <p>Gallery</p>
+                </a>
+                <a href="Shoping page.html">
+                    <p>Shoping</p>
+                </a>
+            </div>
+            <div class="middlebox" id="infobox3">
+                <h2 style="color: red; font-family: Verdana, Geneva, Tahoma, sans-serif;">SUPPORT</h2>
+                <a href="Log In page.html">
+                    <p>Login</p>
+                </a>
+                <a href="Home Page.html">
+                    <p>My Account</p>
+                </a>
+                <a href="Home Page.html">
+                    <p>Subscribe</p>
+                </a>
+                <a href="Home Page.html">
+                    <p>Contact</p>
+                </a>
+                <a href="Membership page.html">
+                    <p>Membership</p>
+                </a>
+            </div>
+            <div class="middlebox" id="infobox4">
+                <h2 style="color: red; font-family: Verdana, Geneva, Tahoma, sans-serif;">EXCULSIVE PROGRAMS</h2>
+                <a href="Exercise Page .html">
+                    <p>Fat Loss</p>
+                </a>
+                <a href="Exercise Page .html">
+                    <p>Muscles Gain</p>
+                </a>
+                <a href="Yoga And Meditation Page.html">
+                    <p>Yoga And Medidation</p>
+                </a>
+                <a href="Blog Page.html">
+                    <p>Latest Updates</p>
+                </a>
+                <a href="Calorie Claculator.html">
+                    <p>Fat Calculator</p>
+                </a>
+                <a href="BMI calculator.html">
+                    <p>BMI calculator</p>
+                </a>
+                <a href="Exercise Page .html">
+                    <p>Powerlifting</p>
+                </a>
+                <a href="Exercise Page .html">
+                    <p>Professional Trainer </p>
+                </a>
+                <a href="Shoping page.html">
+                    <p>Original Produts</p>
+                </a>
+            </div>
+        </div>
+
+    </footer>
+
+
+</body>
+
+</html>
