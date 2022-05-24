@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+   <frameset cols="*,*,*,*,*">
+    <frameset rows="*,*">
+        <frameset cols="*,*">
+            <frame src =" ">
+            <frame src =" ">
+        </frameset>
+        <frame src=" ">
+    </frameset>
+    <frameset rows ="*,*,*">
+        <frame src="">
+         <frameset cols="*,*">
+             <frame src =" ">
+             <frame src =" ">
+         </frameset>
+         <frame src=" ">            
+    </frameset>
+    <frameset rows ="*,*,*,*">
+       <frame src="">
+       <frame src="">
+          <frameset cols="*,*">
+           <frame src =" ">
+           <frame src =" ">
+          </frameset>
+          <frame src=" ">    
+    </frameset>
+    <frameset rows ="*,*,*,*,*">
+      <frame src="">
+      <frame src="">
+      <frame src="">
+        <frameset cols="*,*">
+          <frame src =" ">
+          <frame src =" ">
+          </frameset>
+        <frame src=" ">    
+  </frameset>
+    <frameset rows ="*,*,*,*,*,*">
+       <frame src="">
+       <frame src="">
+       <frame src="">
+       <frame src="">
+       <frameset cols=",">
+         <frame src =" ">
+         <frame src =" ">
+         </frameset>
+       <frame src=" ">    
+ </frameset>
+</frameset>
+</html>
