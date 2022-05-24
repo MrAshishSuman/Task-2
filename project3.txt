@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ACTIVITAR-Membership</title>
+    <link rel="shortcut icon" href="image\Favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/membership.css">
+    <link rel="stylesheet" media="screen and (max-width:600px)" href="css/membership resopsive.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/Footer.css">
+</head>
+
+<body>
+    <!-- Navigation Bar  -->
+    <nav id="navbar">
+        <div id="logo">
+            <img src="image/Logo.JPG" alt="Ativitar">
+        </div>
+        <ul>
+            <li class="item"><a href="Home Page.html">HOME</a></li>
+            <li class="item"><a href="Home Page.html">ABOUT</a></li>
+            <li class="item"><a href="Home Page.html">SERVICES</a></li>
+            <li class="item"><a href="Home Page.html">GALLERY</a></li>
+            <li class="item"><a href="Home Page.html">BLOG</a></li>
+            <li class="item" id="Dp"><img src="image/Profile Picture.jpg" alt="Profile Picture"></li>
+        </ul>
+    </nav>
+    <!-- Header part  -->
+    <header id="header">
+        <h1>BECAME OUR MEMBER</h1>
+    </header>
+    <!-- Our Plan Part  -->
+    <section>OUR PLAN</section>
+    <div class="container">
+        <div class="box" id="box1">
+            <div class="price">
+                <img src="image/membership dumble-logo.jpg" alt="logo">
+                <p id="time">1 WEEK </p>
+                <p id="rate">FREE</p>
+            </div>
+            <div class="info">
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>Free Riding</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>limited Equipement</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p> Time Ristriction</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>No Discount On Products</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>No Presonal Trainer</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*"><select name="service"
+                        id="option">
+                        <option value="Weight Gain">Weight Gain Plan</option>
+                        <option value="Fat Loss">Fat Loss Plan</option>
+                        <option value="Weightlifting">Weightlifting Plan</option>
+                        <option value="Weightlifting">Mass Gain Plan</option>
+                        <option value="Weightlifting">Powerlifting Plan</option>
+                        <option value="Yoga">Yoga Plan</option>
+                        <option value="Get Fitness">Get Fitness Plan</option>
+                    </select></div>
+                <button>JOIN NOW</button>
+            </div>
+        </div>
+        <div class="box" id="box2">
+            <div class="price">
+                <img src="image/membership dumble-logo.jpg" alt="logo">
+                <p id="time">1 MONTH</p>
+                <p id="rate">&#36;40.377</p>
+            </div>
+            <div class="info">
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>Free Riding</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>Unlimited Equipement</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>No Time Ristriction</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p> Discount On Products</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>1 Presonal Trainer</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*"><select name="service"
+                        id="option">
+                        <option value="Weight Gain">Weight Gain Plan</option>
+                        <option value="Fat Loss">Fat Loss Plan</option>
+                        <option value="Weightlifting">Weightlifting Plan</option>
+                        <option value="Weightlifting">Mass Gain Plan</option>
+                        <option value="Weightlifting">Powerlifting Plan</option>
+                        <option value="Yoga">Yoga Plan</option>
+                        <option value="Get Fitness">Get Fitness Plan</option>
+                    </select></div>
+
+                <button>JOIN NOW</button>
+            </div>
+        </div>
+        <div class="box" id="box3">
+            <div class="price">
+                <img src="image/membership dumble-logo.jpg" alt="logo">
+                <p id="time">3 MONTH </p>
+                <p id="rate">&#36;107.672</p>
+            </div>
+            <div class="info">
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>Free Riding</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>Unlimited Equipement</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>No Time Ristriction</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>Extra Discount On Products</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>2 Presonal Trainer</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*"><select name="service"
+                        id="option">
+                        <option value="Weight Gain">Weight Gain Plan</option>
+                        <option value="Fat Loss">Fat Loss Plan</option>
+                        <option value="Weightlifting">Weightlifting Plan</option>
+                        <option value="Weightlifting">Mass Gain Plan</option>
+                        <option value="Weightlifting">Powerlifting Plan</option>
+                        <option value="Yoga">Yoga Plan</option>
+                        <option value="Get Fitness">Get Fitness Plan</option>
+                    </select></div>
+                <button>JOIN NOW</button>
+            </div>
+        </div>
+        <div class="box" id="box4">
+            <div class="price">
+                <img src="image/membership dumble-logo.jpg" alt="logo">
+                <p id="time">6 MONTH </p>
+                <p id="rate">&#36;201.885</p>
+            </div>
+            <div class="info">
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>Free Riding</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>Unlimited Equipement</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>No Time Ristriction</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>Extra Discount On Products</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>3 Presonal Trainer</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*"><select name="service"
+                        id="option">
+                        <option value="Weight Gain">Weight Gain Plan</option>
+                        <option value="Fat Loss">Fat Loss Plan</option>
+                        <option value="Weightlifting">Weightlifting Plan</option>
+                        <option value="Weightlifting">Mass Gain Plan</option>
+                        <option value="Weightlifting">Powerlifting Plan</option>
+                        <option value="Yoga">Yoga Plan</option>
+                        <option value="Get Fitness">Get Fitness Plan</option>
+                    </select></div>
+                <button>JOIN NOW</button>
+            </div>
+        </div>
+        <div class="box" id="box5">
+            <div class="price">
+                <img src="image/membership dumble-logo.jpg" alt="logo">
+                <p id="time">12 MONTH </p>
+                <p id="rate">&#36;336.475</p>
+            </div>
+            <div class="info">
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>Free Riding</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>Unlimited Equipement</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>No Time Ristriction</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>Exclusive Offer On Products</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*">
+                    <p>4 Presonal Trainer</p>
+                </div>
+                <div class="service"><img src="image/membership tick-logo.jpg" alt="*"><select name="service"
+                        id="option">
+                        <option value="Weight Gain">Weight Gain Plan</option>
+                        <option value="Fat Loss">Fat Loss Plan</option>
+                        <option value="Weightlifting">Weightlifting Plan</option>
+                        <option value="Weightlifting">Mass Gain Plan</option>
+                        <option value="Weightlifting">Powerlifting Plan</option>
+                        <option value="Yoga">Yoga Plan</option>
+                        <option value="Get Fitness">Get Fitness Plan</option>
+                    </select></div>
+                <button>JOIN NOW</button>
+            </div>
+        </div>
+    </div>
+    <section class="more"><button><a href="Error 404 .html" style="
+        color: white;
+    ">MORE PLANS</a></button></section>
+    
+    <!-- Footer part -->
+    <footer>
+        <div class="upper">
+            <div class="footerbox"><img src="image/Logo/Location.png" alt="Location">
+                <span>21-House,07-Begusarai,Bihar,India</span>
+            </div>
+            <div class="footerbox">
+                <img src="image/logo/Phone.png" alt="Phone">
+                <span>(+91) 8875109938 - 9204412094</span>
+
+            </div>
+            <div class="footerbox">
+                <img src="image/logo/Gmail.png" alt="Gmail">
+                <span>theashishsuman@gmail.com</span>
+            </div>
+        </div>
+        <div class="middle">
+            <div class="middlebox" id="infobox1">
+                <h2 style="color: red; font-family: Verdana, Geneva, Tahoma, sans-serif;">SOCIAL MEDIA</h2>
+                <a href="https://www.instagram.com/0activitar1/" target="_blank"><img src="image/Logo/instagram.png"
+                        alt="Instagram"></a>
+                <a href="https://www.facebook.com/" target="-blank"><img src="image/Logo/facebook.png"
+                        alt="Facebook"></a></li>
+                <a href="https://www.youtube.com/" target="_blank"><img src="image/Logo/youtube.png" alt="Youtube"></a>
+                <a href="https://in.linkedin.com/" target="_blank"><img src="image/Logo/linkedin.png"
+                        alt="LinkedIn"></a>
+            </div>
+            <div class="middlebox" id="infobox2">
+                <h2 style="color: red; font-family: Verdana, Geneva, Tahoma, sans-serif;">USEFUL LINKS</h2>
+                <a href="Home Page After Login.html">
+                    <p>About</p>
+                </a>
+                <a href="Blog Page.html">
+                    <p>Blog</p>
+                </a>
+                <a href="Home Page After Login.html">
+                    <p>Services</p>
+                </a>
+                <a href="Home Page After Login.html">
+                    <p>Gallery</p>
+                </a>
+                <a href="Shoping page.html">
+                    <p>Shoping</p>
+                </a>
+            </div>
+            <div class="middlebox" id="infobox3">
+                <h2 style="color: red; font-family: Verdana, Geneva, Tahoma, sans-serif;">SUPPORT</h2>
+                <a href="Log In page.html">
+                    <p>Login</p>
+                </a>
+                <a href="Home Page.html">
+                    <p>My Account</p>
+                </a>
+                <a href="Home Page.html">
+                    <p>Subscribe</p>
+                </a>
+                <a href="Home Page.html">
+                    <p>Contact</p>
+                </a>
+                <a href="Membership page.html">
+                    <p>Membership</p>
+                </a>
+            </div>
+            <div class="middlebox" id="infobox4">
+                <h2 style="color: red; font-family: Verdana, Geneva, Tahoma, sans-serif;">EXCULSIVE PROGRAMS</h2>
+                <a href="Exercise Page .html">
+                    <p>Fat Loss</p>
+                </a>
+                <a href="Exercise Page .html">
+                    <p>Muscles Gain</p>
+                </a>
+                <a href="Yoga And Meditation Page.html">
+                    <p>Yoga And Medidation</p>
+                </a>
+                <a href="Blog Page.html">
+                    <p>Latest Updates</p>
+                </a>
+                <a href="Calorie Claculator.html">
+                    <p>Fat Calculator</p>
+                </a>
+                <a href="BMI calculator.html">
+                    <p>BMI calculator</p>
+                </a>
+                <a href="Exercise Page .html">
+                    <p>Powerlifting</p>
+                </a>
+                <a href="Exercise Page .html">
+                    <p>Professional Trainer </p>
+                </a>
+                <a href="Shoping page.html">
+                    <p>Original Produts</p>
+                </a>
+            </div>
+        </div>
+
+    </footer>
+
+
+</body>
+
+</html>
