@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title> This is a simple HTML page </title>
+    </head>
+    <body>
+        <center> <u> <h1> Computer Science Engineering </h1> </u> </center>
+        <p>
+            <ol>
+                <li> <h2>My name is Ayush Srivastava.</h2></li>
+                <li> <h3>I am a student of the group OG-35.</h3></li>
+                <li> <h4>My roll no. is 2210992193.</h4></li>
+            </ol>
+        </p>
+    </body>
+</html>
