@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This line is added in main branch bt ajay
 
+=======
+this line is added in main branch
+cat: conflict.txt: No such file or directory
+>>>>>>> ajay
